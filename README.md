@@ -1,8 +1,13 @@
 # Azure-IoT-Hub-Project-with-Stream-Analytics-Streaming-Data-Azure-Data-Engineering-Project
-in this
 
+![image](https://github.com/user-attachments/assets/8e92e35f-0f0d-4b80-953c-451672fd3989)
+
+![image](https://github.com/user-attachments/assets/68dbecf0-c3b5-4598-a812-44417321a5e6)
 
 ![image](https://github.com/user-attachments/assets/27ca4cf7-0224-459e-8e75-c6b1f86c6b21)
+
+![image](https://github.com/user-attachments/assets/1d6e56d3-ccd4-491c-9a05-d0767621f061)
+
 
 Simulator Link: https://azure-samples.github.io/raspberry-pi-web-simulator/
 
