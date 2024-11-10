@@ -37,12 +37,17 @@ Working:
 11. In stream analytics job,overview- start then when it shows running then 
     Run the Raspberry Pi Azure IoT Online Simulator
 
-12.in query-input -we can see data generated
+12.in query-input -Refresh -we can see data generated
 
 ![image](https://github.com/user-attachments/assets/51b196bd-4a2d-42bf-973a-2589e01d29be)
 
+13.in the test results we can see output as expected.
 
+![image](https://github.com/user-attachments/assets/0c9812e4-2331-459a-a29c-46c1fe96d444)
 
+14.check the storage account,container -refresh and check where we can see a file gets generated
+
+15. Afre complete make sure to stop job.
 
 
 
