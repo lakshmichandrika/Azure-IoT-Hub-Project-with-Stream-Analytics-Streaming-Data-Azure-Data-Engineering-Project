@@ -47,7 +47,7 @@ Working:
 
 14.check the storage account,container -refresh and check where we can see a file gets generated
 
-15. Afre complete make sure to stop job.
+15. After completing make sure to stop job.
 
 
 
