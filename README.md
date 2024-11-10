@@ -1,6 +1,6 @@
 # Azure-IoT-Hub-Project-with-Stream-Analytics-Streaming-Data-Azure-Data-Engineering-Project
+in this
 
-In this
 
 ![image](https://github.com/user-attachments/assets/27ca4cf7-0224-459e-8e75-c6b1f86c6b21)
 
