@@ -39,7 +39,12 @@ Working:
 
 10.click query-input -write query-save
 
+wE CAN EVEN USE wINDOWING FUNCTIONS
+
 ![image](https://github.com/user-attachments/assets/5ca7dbbe-5b0c-47d7-94b8-c06be576dd03)
+
+![image](https://github.com/user-attachments/assets/c684571c-8faf-4c3a-9bce-592f616ac2d5)
+
 
 11. In stream analytics job,overview- start then when it shows running then 
     Run the Raspberry Pi Azure IoT Online Simulator
