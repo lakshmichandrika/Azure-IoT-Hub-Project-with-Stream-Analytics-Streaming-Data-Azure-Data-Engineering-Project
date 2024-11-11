@@ -33,9 +33,14 @@ Working:
 
 8.output - Blob storage -can change output alias name- give storage account name and container name
 
-9.can give minimum rows(like 10) and maximum time(like 1 minute)
-
 ![image](https://github.com/user-attachments/assets/b6ac6d2f-d2ba-47bc-b1ce-333ca1ed3114)
+
+  output - power bi - Authorize - give output alias name
+
+  ![image](https://github.com/user-attachments/assets/57ec5dd7-4902-4c05-8e65-01590e309cc6)
+
+
+9.can give minimum rows(like 10) and maximum time(like 1 minute)
 
 10.click query-input -write query-save
 
